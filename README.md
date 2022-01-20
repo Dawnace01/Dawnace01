@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Cécillon</h1>
-<h3 align="center">A French student in IT in France. I'm in my second-year-cursus.</h3>
+<h3 align="center">A French IT-student. I'm in my second-year-cursus.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawnace01&label=Profile%20views&color=0e75b6&style=flat" alt="dawnace01" /> </p>
 
